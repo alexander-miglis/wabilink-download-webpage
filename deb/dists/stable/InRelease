@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64 armhf
+Codename: stable
+Components: main
+Date: Fri, 13 Nov 2026 17:18:51 +0000
+Description: WabiLink packages
+Label: WabiLink
+Origin: WabiLink
+Suite: stable
+MD5Sum:
+ 2262bf505d7cfa892168169a04e61dea              183 Release
+ ebc3a849ae81e67d01cfd3f7424dc1ce             1340 main/binary-amd64/Packages
+ 642feb84ed1bb142c3e1a53a01bc70fa              779 main/binary-amd64/Packages.gz
+ 7ea9008b1b9967fd8f0090ebbefa3d04             1340 main/binary-arm64/Packages
+ af526a5da8cec27623fd043a5ba4377e              779 main/binary-arm64/Packages.gz
+ 68983d49912e8bb446443489d6d601b5             1339 main/binary-armhf/Packages
+ a118740d1040a0877f7d43ffc5ebbf26              783 main/binary-armhf/Packages.gz
+SHA1:
+ d9e9957be59a0c902b97b483130c7106618c9aa5              183 Release
+ 97181c396d0a843ad58a7e0c8609bc1149552fa6             1340 main/binary-amd64/Packages
+ 110e6030f77c3e33bb18e9515c1fd714d474591b              779 main/binary-amd64/Packages.gz
+ 3ad567dd454d5486c961e15c86289f11bc985d1e             1340 main/binary-arm64/Packages
+ 889a14bce86b171152c775a4ad7412f40002705d              779 main/binary-arm64/Packages.gz
+ af92f0cd2930d927d4453eed6f2d9393cc97d129             1339 main/binary-armhf/Packages
+ 5259846d19bff7de2fb6e0a816431aff9ede3094              783 main/binary-armhf/Packages.gz
+SHA256:
+ ff2ad57ad3bfea778b4e5ae3a49523c9fdec211885af6054c36ff1299de23084              183 Release
+ 48a21b585b79da0a1acfcb34edfe20176e3b5ffbc3e3c059179a06420385932e             1340 main/binary-amd64/Packages
+ 0f0c58da38c6007c99e2463197e032d47b732f0a82a289717439a7bfeff09af9              779 main/binary-amd64/Packages.gz
+ f33f2a8b3d3e9ec69c374c4bb7bb3976036e9e106afc81e6120df606ff0161c8             1340 main/binary-arm64/Packages
+ 368a0fadf9e861d62b4ebddf7098d404776f8ce7d09c4e1b579e14c588a43749              779 main/binary-arm64/Packages.gz
+ e52fc8fc058c9de232eeb6faf8a2551b24c30654dca2a1af0822ba2c22ef7cae             1339 main/binary-armhf/Packages
+ fcd775d1263fd03e1dd7b01fb1e78a749f1bc03cdaac183e67db6e47717ba26e              783 main/binary-armhf/Packages.gz
+SHA512:
+ 3589ac38f74e403bbc42dae20346ac52b9ad8c70b0484cabdc2a3a64d9af50d87a06774e83d5a325b526453a375181e7dab70d61ad794fa4f37af8045d3fb9d7              183 Release
+ f51a9adeb8941292cb417bae17fc0dd0edd80686be12c8f1d89cafbcc31d46a689e9283782589101cbe2fb206f4fec6e26a9babb6d223b9d2eb6f21f1fbd119e             1340 main/binary-amd64/Packages
+ 4f45197fbe7646a471f5d41d800c9be13825b1dfd28ed39d2bef84087339d8dffe6ec98a0ae66e3e7bf21ce1bc51886134b0802b133ccb51fac25ebd94e4f8be              779 main/binary-amd64/Packages.gz
+ 6d6391964145f48bd66d89aab3bb9c01e9d45534854e53f80ea94b4039e0031eda9745b299ba3d667d52694737c37e67da8db3eba1d12261e1a20587f6fbd0b9             1340 main/binary-arm64/Packages
+ fe03a22483995562d596d0d64cdff065e13a0f20ed26794641eea92d4fcde8362ec37cd23a6ffb75b4ba12584328acd4994cc7ecf958b321ccf5b5d0b6beb3e5              779 main/binary-arm64/Packages.gz
+ 2d6202ca311fd989b213b0b2d393fdcfe1b0d3a3879c30229c2040c7218a7ae8d90b11e104cb48e366645c6833478975523d731d9360dff1834043c8459f9088             1339 main/binary-armhf/Packages
+ 7a55211818f5aa4a30dc2c1f596eb62b2d4a5a727a72731c7673e7ef759b35d3cdf4155827ac551f8976a4e5fd4c89722355e84d62fa20c96b94a58ced165046              783 main/binary-armhf/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEELJ9pCaKfwf4vlX9/rLqGBV0+utIFAmr3RnsACgkQrLqGBV0+
+utLljg//WExxdqk2d0azVAauydS8eOpMX6AefVeDfTOcb+8DqUH8C8U6//dpmYdf
+WCZADnpT8f0H0M1afWN5USPiMMMI5XyLFQTluMPZl5QU9CX1bPv1UBrPszJZFR/a
+Gx00xRa0avMd23sU4l2yqgqyaXJzGn3q7x71CfdejjivvXqN8x+SGAhwOqToAdz8
++x3ohDcNwsFvXVW0vgrAMu3GbRRk7OOOX3zNmD17E4AuIp8uT7ZtAt75SAyYE+bH
+sT4SULr2c4igVnUfH8bXf/GpC+OicknFl4cNAqzRej6XKgE/gUSTq4MkJJ0h3tuH
+Ab18OI8SMKhX3qm5oVIwnIUfRuyRYNm8omNleWXfslM84GbuunjGrC5PSHW3X53T
+nKk1806pIPYNgiu2m/0AWiM9H1KPBxB2uwPWo6qIIEx3CjqQtX2lvC8Knx7PI4Df
+ngdynMQn4bjilcNBdFZ6QWeqFCnCdeCE7GjjA3yBNWUurIBL+RLUhlkGTbNHWBq1
+QJdMlTKteq7Tk90ztdtBFEDL0OqvGuMuGoDfkjQp9gg01Hs2dQ1OcVq9j7XgNfZA
+cQFKRTLU9nQZjCSWnBhuej4DBrypVr0e1AzJBNv9zzX33uzj3VMFbwqNFU7mMfn6
+M/PSUnEw+IN7UtQ1zV0yCWiF6YwNv3IdtTVKhkhgghJtJarDG4E=
+=0M1B
+-----END PGP SIGNATURE-----
